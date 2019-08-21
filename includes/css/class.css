@@ -1,0 +1,17 @@
+/* CSS Document */
+body{
+	margin:5px;
+}
+
+#wrapper{
+	margin-right: auto; margin-left: auto; border: thin solid black;
+	
+}
+
+#leftgutter{
+	border-right: thin solid gray;
+}
+
+#topheader{
+	font-size: 24px; background-color: #eeeeee
+}

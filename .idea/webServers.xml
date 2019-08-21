@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="09709231-5c6b-49dd-b5fe-81d1a943f769" name="Comweb" url="http://comweb.uml.edu">
+        <fileTransfer explicitFtps="false" host="comweb.uml.edu" port="990" rootFolder="/jmart82733" accessType="FTPS">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="990" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
